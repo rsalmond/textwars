@@ -1,0 +1,2 @@
+[app.Textwars]
+command = "python3 textwars.py"
